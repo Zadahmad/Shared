@@ -1,5 +1,5 @@
 {
-    "genres": [
+"categories" : [
         "Comedy",
         "Fantasy",
         "Crime",
@@ -22,7 +22,8 @@
         "Musical",
         "Sport"
     ],
-    "movies": [
+	
+"films" : [
         {
             "id": 1,
             "title": "Beetlejuice",
@@ -35,7 +36,7 @@
             "director": "Tim Burton",
             "actors": "Alec Baldwin, Geena Davis, Annie McEnroe, Maurice Page",
             "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwODE3MDE0MV5BMl5BanBnXkFtZTgwNTk1MjI4MzE@._V1_SX300.jpg"
+            "posterUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-IeX_yG8vD7-abnQrQnfhQvCnzJTKKmog_M7EqEiSFlWKpgok"
         },
         {
             "id": 2,
@@ -64,7 +65,7 @@
             "director": "Frank Darabont",
             "actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
             "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SX300.jpg"
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/I/51shmWosoXL._SX342_SY445_QL70_ML2_.jpg"
         },
         {
             "id": 4,
@@ -136,7 +137,7 @@
             "director": "Christopher Nolan",
             "actors": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior",
             "plot": "A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNThiYjM3MzktMDg3Yy00ZWQ3LTk3YWEtN2M0YmNmNWEwYTE3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+            "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
         },
         {
             "id": 9,
@@ -195,7 +196,7 @@
             "director": "Martin Scorsese",
             "actors": "Diahnne Abbott, Frank Adu, Victor Argo, Gino Ardito",
             "plot": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGQxNDgzZWQtZTNjNi00M2RkLWExZmEtNmE1NjEyZDEwMzA5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+            "posterUrl": "https://resizing.flixster.com/pui0Fats1LPokCzsl_UlAZVNqeo=/206x305/v2/https://flxt.tmsimg.com/assets/p3836_p_v10_aq.jpg"
         },
         {
             "id": 13,
@@ -357,7 +358,7 @@
             "director": "Michael Cimino",
             "actors": "Robert De Niro, John Cazale, John Savage, Christopher Walken",
             "plot": "An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzYmRmZTQtYjk2NS00MDdlLTkxMDAtMTE2YTM2ZmNlMTBkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+            "posterUrl": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
         },
         {
             "id": 24,
@@ -415,7 +416,7 @@
             "director": "Sam Mendes",
             "actors": "Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley",
             "plot": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM4NTI5NzYyNV5BMl5BanBnXkFtZTgwNTkxNTYxMTE@._V1_SX300.jpg"
+            "posterUrl": "https://alternativemovieposters.com/wp-content/uploads/2018/01/mattryan_beauty.jpg"
         },
         {
             "id": 28,
@@ -516,7 +517,7 @@
             "director": "Guillermo del Toro",
             "actors": "Ivana Baquero, Sergi López, Maribel Verdú, Doug Jones",
             "plot": "In the falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
-            "posterUrl": ""
+            "posterUrl": "https://upload.wikimedia.org/wikipedia/en/6/67/Pan%27s_Labyrinth.jpg"
         },
         {
             "id": 35,
@@ -559,7 +560,7 @@
             "director": "Stanley Kubrick",
             "actors": "Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers",
             "plot": "A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.",
-            "posterUrl": "https://ia.media-imdb.com/images/M/MV5BODMxMjE3NTA4Ml5BMl5BanBnXkFtZTgwNDc0NTIxMDE@._V1_SX300.jpg"
+            "posterUrl": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
         },
         {
             "id": 38,
@@ -604,7 +605,7 @@
             "director": "Curtis Hanson",
             "actors": "Kevin Spacey, Russell Crowe, Guy Pearce, James Cromwell",
             "plot": "As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWEwNDhhNWUtYWMzNi00ZTNhLWFiZDAtMjBjZmJhMTU0ZTY2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/I/51VHLnKeHEL._SX324_BO1,204,203,200_.jpg"
         },
         {
             "id": 41,
@@ -658,7 +659,7 @@
             "director": "Clint Eastwood",
             "actors": "Clint Eastwood, Christopher Carley, Bee Vang, Ahney Her",
             "plot": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
-            "posterUrl": "https://ia.media-imdb.com/images/M/MV5BMTQyMTczMTAxMl5BMl5BanBnXkFtZTcwOTc1ODE0Mg@@._V1_SX300.jpg"
+            "posterUrl": "https://resizing.flixster.com/PRTvPKTzEl7aP0zE_lZ8wasCZ_k=/206x305/v2/https://flxt.tmsimg.com/assets/p183329_p_v8_ab.jpg"
         },
         {
             "id": 45,
@@ -757,7 +758,7 @@
             "director": "Robert Zemeckis",
             "actors": "Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys",
             "plot": "Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BYThjM2MwZGMtMzg3Ny00NGRkLWE4M2EtYTBiNWMzOTY0YTI4XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg"
+            "posterUrl": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
         },
         {
             "id": 52,
@@ -842,7 +843,7 @@
             "director": "Alfred Hitchcock",
             "actors": "Anthony Perkins, Vera Miles, John Gavin, Janet Leigh",
             "plot": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDI3OWRmOTEtOWJhYi00N2JkLTgwNGItMjdkN2U0NjFiZTYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+            "posterUrl": "https://www.tvguide.com/a/img/catalog/provider/1/2/1-172471826.jpg"
         },
         {
             "id": 58,
@@ -857,7 +858,7 @@
             "director": "Alfred Hitchcock",
             "actors": "Cary Grant, Eva Marie Saint, James Mason, Jessie Royce Landis",
             "plot": "A hapless New York advertising executive is mistaken for a government agent by a group of foreign spies, and is pursued across the country while he looks for a way to survive.",
-            "posterUrl": "https://ia.media-imdb.com/images/M/MV5BMjQwMTQ0MzgwNl5BMl5BanBnXkFtZTgwNjc4ODE4MzE@._V1_SX300.jpg"
+            "posterUrl": "https://m.media-amazon.com/images/I/41-YsZvrB+L._AC_SY445_.jpg"
         },
         {
             "id": 59,
@@ -990,7 +991,7 @@
             "director": "Frank Marshall",
             "actors": "Ethan Hawke, Vincent Spano, Josh Hamilton, Bruce Ramsay",
             "plot": "Uruguayan rugby team stranded in the snow swept Andes are forced to use desperate measures to survive after a plane crash.",
-            "posterUrl": ""
+            "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTMwNDUxNjItMDgzNS00MjU3LTllZTktOGVmZGM4N2FmYmYzXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg"
         },
         {
             "id": 68,
@@ -1005,7 +1006,7 @@
             "director": "Michael Curtiz",
             "actors": "Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains",
             "plot": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwNDYyNTk2N15BMl5BanBnXkFtZTgwMjQ0OTMyMjE@._V1_SX300.jpg"
+            "posterUrl": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg"
         },
         {
             "id": 69,
@@ -1139,7 +1140,7 @@
             "director": "Peter Jackson",
             "actors": "Noel Appleby, Ali Astin, Sean Astin, David Aston",
             "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4MjA1NTAyMV5BMl5BanBnXkFtZTcwNzM1NDQyMQ@@._V1_SX300.jpg"
+            "posterUrl": "https://images-na.ssl-images-amazon.com/images/I/A1yy50fuVnL._RI_.jpg"
         },
         {
             "id": 78,
@@ -1243,7 +1244,7 @@
             "director": "Billy Wilder",
             "actors": "William Holden, Gloria Swanson, Erich von Stroheim, Nancy Olson",
             "plot": "A hack screenwriter writes a screenplay for a former silent-film star who has faded into Hollywood obscurity.",
-            "posterUrl": "https://ia.media-imdb.com/images/M/MV5BMTc3NDYzODAwNV5BMl5BanBnXkFtZTgwODg1MTczMTE@._V1_SX300.jpg"
+            "posterUrl": "https://resizing.flixster.com/jASvWdyGN-hdWP61BVQk5njKUno=/206x305/v2/https://flxt.tmsimg.com/assets/p1187_p_v8_ai.jpg"
         },
         {
             "id": 85,
@@ -1491,7 +1492,7 @@
             "director": "Anthony Minghella",
             "actors": "Ralph Fiennes, Juliette Binoche, Willem Dafoe, Kristin Scott Thomas",
             "plot": "At the close of WWII, a young nurse tends to a badly-burned plane crash victim. His past is shown in flashbacks, revealing an involvement in a fateful love affair.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDg2OTcxNDE0OF5BMl5BanBnXkFtZTgwOTg2MDM0MDE@._V1_SX300.jpg"
+            "posterUrl": "https://www.danverslibrary.org/readthis/wp-content/uploads/2018/06/English-Patient.jpg"
         },
         {
             "id": 102,
@@ -1941,7 +1942,7 @@
             "director": "Peter Jackson",
             "actors": "Alan Howard, Noel Appleby, Sean Astin, Sala Baker",
             "plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle Earth from the Dark Lord Sauron.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTEyMjAwMDU1OV5BMl5BanBnXkFtZTcwNDQyNTkxMw@@._V1_SX300.jpg"
+            "posterUrl": "https://flxt.tmsimg.com/assets/p28828_p_v10_am.jpg"
         },
         {
             "id": 133,
@@ -2031,7 +2032,7 @@
             "director": "Alfred Hitchcock",
             "actors": "James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore",
             "plot": "A San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
-            "posterUrl": "https://ia.media-imdb.com/images/M/MV5BNzY0NzQyNzQzOF5BMl5BanBnXkFtZTcwMTgwNTk4OQ@@._V1_SX300.jpg"
+            "posterUrl": "https://i.pinimg.com/originals/1f/bc/41/1fbc41accf8994dd21e9ff48bcc726a5.png"
         },
         {
             "id": 139,
@@ -2103,7 +2104,7 @@
             "director": "Robert Mulligan",
             "actors": "Gregory Peck, John Megna, Frank Overton, Rosemary Murphy",
             "plot": "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his kids against prejudice.",
-            "posterUrl": "https://ia.media-imdb.com/images/M/MV5BMjA4MzI1NDY2Nl5BMl5BanBnXkFtZTcwMTcyODc5Mw@@._V1_SX300.jpg"
+            "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
         },
         {
             "id": 144,
